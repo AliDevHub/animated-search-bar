@@ -31,6 +31,12 @@ Feel free to reach out for collaboration or feedback: aliraza972003@gmail.com
 
 #### Notes on the README:
 - **Live Demo**: I’ve included a placeholder GitHub Pages URL (`https://AliDevHub.github.io/animated-search-bar/`). You’ll need to enable GitHub Pages to make this link work (see Step 4 below).
-- **Screenshot**: The README references a screenshot (`assets/assets/image.png` and `assets/image-1.png`). If you haven’t added a screenshot yet, take one of your search bar, save it in an `assets` folder, and update the repository (I’ll guide you on this if needed).
+- **Screenshot**: The README references a screenshot (`assets/assets/image.png` and `assets/image-1.png`). If you haven’t added a screenshot yet, 
+
+## ## Screenshots
+![Collapsed Search Bar](assets/image.png)
+![Expanded Search Bar](assets/image-1.png)
+
+take one of your search bar, save it in an `assets` folder, and update the repository (I’ll guide you on this if needed).
 - **Contact**: Replace `aliraza972003@gmail.com` with your actual email address.
 
