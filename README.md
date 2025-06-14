@@ -4,6 +4,10 @@
 ## Overview
 This project is an animated search bar with a smooth toggle effect, designed to enhance user experience on web applications. It features a clean, modern design with responsive animations, making it ideal for search functionalities in websites or apps.
 
+## ## Screenshots
+![Collapsed Search Bar](assets/image.png)
+![Expanded Search Bar](assets/image-1.png)
+
 ## Features
 - **Smooth Animations**: The search bar expands and collapses with a 1.5-second transition effect.
 - **Interactive Design**: Click the search or microphone icon to toggle between active and inactive states, adjusting the input field and microphone icon visibility.
@@ -33,10 +37,6 @@ Feel free to reach out for collaboration or feedback: aliraza972003@gmail.com
 - **Live Demo**: I’ve included a placeholder GitHub Pages URL (`https://AliDevHub.github.io/animated-search-bar/`). You’ll need to enable GitHub Pages to make this link work (see Step 4 below).
 <a href="https://AliDevHub.github.io/animated-search-bar/">Live Demo</a>
 - **Screenshot**: The README references a screenshot (`assets/assets/image.png` and `assets/image-1.png`). If you haven’t added a screenshot yet, 
-
-## ## Screenshots
-![Collapsed Search Bar](assets/image.png)
-![Expanded Search Bar](assets/image-1.png)
 
 take one of your search bar, save it in an `assets` folder, and update the repository (I’ll guide you on this if needed).
 - **Contact**: Replace `aliraza972003@gmail.com` with your actual email address.
